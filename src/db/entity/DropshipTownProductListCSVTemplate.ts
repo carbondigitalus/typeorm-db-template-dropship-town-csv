@@ -6,16 +6,13 @@ import {
     Equals,
     IsDate,
     IsIn,
-    IsInt,
     IsNotEmpty,
     IsNumber,
     IsString,
     IsUrl,
-    Length,
     MinLength,
     MaxLength,
-    Min,
-    Max
+    Min
 } from 'class-validator';
 import { BaseEntity, Column, Entity, PrimaryGeneratedColumn } from 'typeorm';
 import 'reflect-metadata';
