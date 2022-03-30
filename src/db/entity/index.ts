@@ -1,1 +1,1 @@
-export { default as BangallaCSVTemplate } from './BangallaCSVTemplate';
+export { default as DropshipTownProductListCSVTemplate } from './DropshipTownProductListCSVTemplate';
