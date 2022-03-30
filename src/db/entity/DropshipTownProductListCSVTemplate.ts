@@ -3,7 +3,6 @@
 
 // NPM Modules
 import {
-    Equals,
     IsDate,
     IsIn,
     IsNotEmpty,
